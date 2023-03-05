@@ -63,10 +63,10 @@ Examples of a Few Options
 ![image](https://user-images.githubusercontent.com/31528908/222982228-0383a05d-e27e-4361-a658-e58a966519e2.png)
 ![image](https://user-images.githubusercontent.com/31528908/222982347-2ec53d77-9042-4dbd-b8af-6dbc55c21192.png)
 
-<pre>
+
 
 Link to Streamlit Site
 https://jpagel1-sleeper-ktc-streamlit-version-streamlitmain-5jqk9d.streamlit.app/
 
 Enjoy!
-</pre>
+
