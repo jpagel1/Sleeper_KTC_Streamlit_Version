@@ -1,0 +1,195 @@
+[
+    {
+        "user_id": "733416469001523200",
+        "settings": null,
+        "metadata": {
+            "user_message_pn": "on",
+            "transaction_waiver": "on",
+            "transaction_trade": "on",
+            "transaction_free_agent": "on",
+            "transaction_commissioner": "on",
+            "trade_block_pn": "on",
+            "team_name_update": "off",
+            "player_nickname_update": "off",
+            "player_like_pn": "on",
+            "mention_pn": "on",
+            "mascot_message": "off",
+            "join_voice_pn": "off",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Truefus",
+        "avatar": "2886b12b39aed5db7885e534d675af47"
+    },
+    {
+        "user_id": "866344144925237248",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": true,
+        "is_bot": false,
+        "display_name": "Creytose",
+        "avatar": "15d7cf259bc30eab8f6120f45f652fb6"
+    },
+    {
+        "user_id": "866354483838464000",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Cprebel18",
+        "avatar": "15d7cf259bc30eab8f6120f45f652fb6"
+    },
+    {
+        "user_id": "866361936198135808",
+        "settings": null,
+        "metadata": {
+            "team_name": "I Need A Beer",
+            "show_mascots": "off",
+            "mention_pn": "on",
+            "avatar": "https://sleepercdn.com/uploads/69b0356b6c5f50d79ac10d5d31e0e84b.jpg",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "beidenschink",
+        "avatar": "4f4090e5e9c3941414db40a871e3e909"
+    },
+    {
+        "user_id": "866385267328708608",
+        "settings": null,
+        "metadata": {
+            "show_mascots": "off",
+            "mention_pn": "on",
+            "avatar": "https://sleepercdn.com/uploads/dec70e98371e185c0084150061b85687.jpg",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "AZaviator",
+        "avatar": "8eb8f8bf999945d523f2c4033f70473e"
+    },
+    {
+        "user_id": "866711108986245120",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Pagelsbagels",
+        "avatar": "e7af4deab0289b4f5505646424895246"
+    },
+    {
+        "user_id": "866836507560919040",
+        "settings": null,
+        "metadata": {
+            "team_name": "Kicker Dicker",
+            "mention_pn": "on",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Wadaman",
+        "avatar": "15d7cf259bc30eab8f6120f45f652fb6"
+    },
+    {
+        "user_id": "866841103297527808",
+        "settings": null,
+        "metadata": {
+            "user_message_pn": "on",
+            "transaction_waiver": "on",
+            "transaction_trade": "on",
+            "transaction_free_agent": "on",
+            "transaction_commissioner": "on",
+            "trade_block_pn": "on",
+            "team_name_update": "off",
+            "player_nickname_update": "on",
+            "player_like_pn": "on",
+            "mention_pn": "on",
+            "mascot_message": "on",
+            "join_voice_pn": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Jcuerv0",
+        "avatar": "e7af4deab0289b4f5505646424895246"
+    },
+    {
+        "user_id": "866841746372431872",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "mskram3",
+        "avatar": "15d7cf259bc30eab8f6120f45f652fb6"
+    },
+    {
+        "user_id": "866923094428872704",
+        "settings": null,
+        "metadata": {
+            "team_name": "Muddogs",
+            "show_mascots": "off",
+            "mention_pn": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Dukenasty",
+        "avatar": "4f4090e5e9c3941414db40a871e3e909"
+    },
+    {
+        "user_id": "867047683490201600",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_sms": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "Skram025",
+        "avatar": "b3338675f635c2c1f42b469621d38ec6"
+    },
+    {
+        "user_id": "867077019555508224",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_pn": "on"
+        },
+        "league_id": "917535899465388032",
+        "is_owner": false,
+        "is_bot": false,
+        "display_name": "IrishFlyer228",
+        "avatar": "43a70430752535ffedd0dd2d81ac7cdb"
+    }
+]
